@@ -1,0 +1,22 @@
+{
+  "intervention_name": {
+    "unique_before": 4924,
+    "unique_after": 3847,
+    "reduction_pct": 21.9
+  },
+  "condition": {
+    "unique_before": 3663,
+    "unique_after": 3356,
+    "reduction_pct": 8.4
+  },
+  "sponsor": {
+    "unique_before": 2517,
+    "unique_after": 2463,
+    "reduction_pct": 2.1
+  },
+  "country": {
+    "unique_before": 439,
+    "unique_after": 439,
+    "reduction_pct": 0.0
+  }
+}
